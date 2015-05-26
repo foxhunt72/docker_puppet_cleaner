@@ -1,0 +1,1 @@
+docker run --rm -i puppet-clean /usr/local/bin/puppet-opschoon.sh
